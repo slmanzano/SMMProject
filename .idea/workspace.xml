@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77e854eb-3507-4bfb-b9d8-e850726ca026" name="Changes" comment="Se ha creado una carpeta en la que se han subido todos los scratches realizados durante la formación, y reorganizado el proyecto, eliminando el archivo s12p1.py que no estaba en el lugar adecuado">
-      <changelist_data name="slmanzano" email="slmanzano@indra.es" />
-    </list>
+    <list default="true" id="77e854eb-3507-4bfb-b9d8-e850726ca026" name="Changes" comment="Se ha creado una carpeta en la que se han subido todos los scratches realizados durante la formación, y reorganizado el proyecto, eliminando el archivo s12p1.py que no estaba en el lugar adecuado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="Git.Pull.Settings">
     <option name="OPTIONS">
       <set>
@@ -236,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679903137947</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Se ha creado una carpeta en la que se han subido todos los scratches realizados durante la formación, y reorganizado el proyecto, eliminando el archivo s12p1.py que no estaba en el lugar adecuado">
+      <created>1679904081388</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679904081388</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
